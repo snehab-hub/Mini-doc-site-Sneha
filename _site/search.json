@@ -74,7 +74,7 @@
     "href": "index.html",
     "title": "Beginner Friendly Guide",
     "section": "",
-    "text": "# Welcome\nThis mini documentation site introduces beginner-friendly tools and techniques for creating technical documentation.\nThe three guides on this site explain how to use GitHub and Visual Studio Code, how to write with Markdown, and how to build a website with Quarto.",
+    "text": "This mini documentation site introduces beginner-friendly tools and techniques for creating technical documentation.\nThe three guides on this site explain how to use GitHub and Visual Studio Code, how to write with Markdown, and how to build a website with Quarto.",
     "crumbs": [
       "Welcome"
     ]
