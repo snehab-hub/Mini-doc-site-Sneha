@@ -1,4 +1,4 @@
-# Technical Documentation Guide
+# TechnicalDocumentation Guide
 
 This repository contains a beginner-friendly documentation website created with [Quarto](https://quarto.org/).
 
@@ -20,4 +20,4 @@ The website contains three documentation articles:
 
 The live website will be available here:
 
-[View the Technical Documentation Guide](PASTE-LIVE-WEBSITE-LINK-HERE)
+[View the Technical Documentation Guide](https://snehab-hub.github.io/Mini-doc-site-Sneha/)
