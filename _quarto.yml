@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Documentation Guide"
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+
+      - href: github-vscode.qmd
+        text: GitHub & VS Code
+
+      - href: markdown-basics.qmd
+        text: Markdown Basics
+
+      - href: quarto-website.qmd
+        text: Quarto Website
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
