@@ -1,7 +1,6 @@
 ---
 title: "Getting Started with GitHub and VS Code"
 ---
-# Getting Started with GitHub and VS Code
 
 This guide explains how to create, publish, and collaborate on a simple documentation project using **VS Code**, **GitHub Desktop**, and **GitHub Pages**.
 
