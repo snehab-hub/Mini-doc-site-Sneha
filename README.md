@@ -14,7 +14,6 @@ The website contains three documentation articles:
 - Visual Studio Code
 - GitHub
 - GitHub Desktop
-- GitHub Pages
 
 ## Live Website
 
