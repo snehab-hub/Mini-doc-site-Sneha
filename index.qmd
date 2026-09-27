@@ -1,8 +1,8 @@
 ---
-title: "Documentation Guide"
+title: "Beginner Friendly Guide"
 toc: false
 ---
-
+![](images/header.png){fig-alt="" width="100%"}
 # Welcome
 
 This mini documentation site introduces beginner-friendly tools and techniques for creating technical documentation.

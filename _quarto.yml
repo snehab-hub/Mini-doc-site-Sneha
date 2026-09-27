@@ -2,24 +2,49 @@ project:
   type: website
 
 website:
-  title: "Documentation Guide"
+  title: "Technical Documentation Guide"
+
+  page-navigation: true
+
+  page-footer:
+    background: primary
+    left: "&copy; 2026, Sneha Basu"
+    center: "Built with [Quarto](https://quarto.org/)"
+    right:
+      - icon: github
+        href: https://github.com/snehab-hub
 
   navbar:
-    left:
-      - href: index.qmd
-        text: Home
+    background: primary
 
-      - href: github-vscode.qmd
-        text: GitHub & VS Code
+  sidebar:
+    style: "floating"
+    search: true
+    contents:
+      - section: "Articles"
 
-      - href: markdown-basics.qmd
-        text: Markdown Basics
+      - text: "Welcome"
+        href: index.qmd
 
-      - href: quarto-website.qmd
-        text: Quarto Website
+      - text: "GitHub & VS Code"
+        href: github-vscode.qmd
+
+      - text: "Markdown Basics"
+        href: markdown-basics.qmd
+
+      - text: "Quarto Website"
+        href: quarto-website.qmd
 
 format:
   html:
-    theme: cosmo
+    respect-user-color-scheme: true
+    page-layout: full
+
+    theme:
+      light: litera
+      dark: darkly
+
     css: styles.css
+
     toc: true
+    toc-location: right

@@ -1,6 +1,7 @@
 ---
 title: "Getting Started with GitHub and VS Code"
----# Getting Started with GitHub and VS Code
+---
+# Getting Started with GitHub and VS Code
 
 This guide explains how to create, publish, and collaborate on a simple documentation project using **VS Code**, **GitHub Desktop**, and **GitHub Pages**.
 
@@ -49,6 +50,8 @@ A **commit** records a version of your work. **Pushing** sends that version to G
 
 See the [GitHub Desktop commit guide](https://docs.github.com/en/desktop/making-changes-in-a-branch/committing-and-reviewing-changes-to-your-project-in-github-desktop).
 
+![GitHub Desktop showing project changes](images/github.png)
+
 ## 5. Publish with GitHub Pages
 
 On GitHub, open **Settings → Pages**. Choose **Deploy from a branch**, select `main` and `/(root)`, and click **Save**.
@@ -66,20 +69,3 @@ Open **Settings → Collaborators** and invite another GitHub user. After they a
 Review the pull request, **approve** it, and **merge** it into `main`. Then use **Fetch origin** or **Pull origin** in GitHub Desktop to update your local copy.
 
 See GitHub's [pull request documentation](https://docs.github.com/en/pull-requests).
-
-## 7. Document Your Work
-
-Create `readme.md` at the top level of the repository. Write beginner instructions using headings, lists, **bold text**, *italics*, links, block quotes, and code blocks.
-
-See GitHub's [Markdown guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-Save `readme.md`, commit it with a message such as `Add project documentation`, and push it to GitHub.
-
-## Final Check
-
-Confirm that `index.html` and `readme.md` are in the public repository, the GitHub Pages website works, and the collaborator's pull request was merged.
-
-Submit these two links to Canvas:
-
-1. **Public GitHub repository**
-2. **Live GitHub Pages website**
